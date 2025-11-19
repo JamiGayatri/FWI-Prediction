@@ -13,7 +13,7 @@ Fork the repository to your own GitHub account.
 Create a folder named <your_name_milestone_1> inside the repo.
 Upload:
 Raw files
-Python scripts (preprocessing, chunking, embeddings, etc.)
+Python scripts (Data, preprocessing, obtaining histograms, correlation plots)
 Any output files
 A README explaining your work
 Commit and push to your fork.
